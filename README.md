@@ -21,4 +21,5 @@ Flow code ini dimulai dari file utama index.php yang berfungsi sebagai pusat nav
 dokumentasi video:
 [![dokumentasi](https://img.youtube.com/vi/xUdXornjBsw/0.jpg)](https://youtu.be/xUdXornjBsw)
 ERD:
-![ERD](dokumentasi/dokumentasiFoto.jpg)
+![dokumentasiFoto](dokumentasi/dokumentasiFoto.jpg)
+
