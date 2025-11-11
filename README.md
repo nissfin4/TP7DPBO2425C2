@@ -10,8 +10,8 @@ Bagian terakhir adalah halaman Reservations, yang digunakan untuk mencatat pemes
 
 ini menggunakan tiga tabel utama:
 1. concerts untuk menyimpan data konser (id_concert, concert_name, date, venue).
-2.ticket_categories untuk menyimpan kategori tiket untuk setiap konser (id_ticket_category, id_concert, category_name, price, quota).
-3.reservations untuk menyimpan data pemesanan (id_reservation, id_concert, id_ticket_category, customer_name, quantity).
+2. ticket_categories untuk menyimpan kategori tiket untuk setiap konser (id_ticket_category, id_concert, category_name, price, quota).
+3. reservations untuk menyimpan data pemesanan (id_reservation, id_concert, id_ticket_category, customer_name, quantity).
 
 Setiap tabel memiliki relasi yang saling terhubung: tabel ticket_categories berelasi dengan concerts melalui id_concert, sedangkan tabel reservations berelasi dengan keduanya (id_concert dan id_ticket_category). Semua entitas memiliki operasi CRUD.
 
