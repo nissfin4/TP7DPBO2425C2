@@ -19,4 +19,5 @@ Flow code ini dimulai dari file utama index.php yang berfungsi sebagai pusat nav
 
 
 dokumentasi video:
-[Dokumentasi](https://youtu.be/xUdXornjBsw)
+[![dokumentasi](https://img.youtube.com/vi/xUdXornjBsw/0.jpg)](https://youtu.be/xUdXornjBsw)
+
